@@ -7,6 +7,6 @@ scalaVersion := "2.13.3"
 libraryDependencies +=
   "org.typelevel" %% "cats-core" % "2.2.0"
 
-scalacOptions ++= Seq(
-  "-Xfatal-warnings"
-)
+// scalacOptions ++= Seq(
+//   "-Xfatal-warnings"
+// )
